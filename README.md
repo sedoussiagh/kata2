@@ -1,2 +1,1 @@
-# kata2
-Carrefour Java kata
+🚚 DriveAndDeliver - a Carrefour kata
